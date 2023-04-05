@@ -6,7 +6,7 @@ Watch the video, then take the pre-lesson quiz
 
 [![ML, AI, deep learning - What's the difference?](https://img.youtube.com/vi/lTd9RSxS9ZE/0.jpg)](https://youtu.be/lTd9RSxS9ZE "ML, AI, deep learning - What's the difference?")
 
-https://learn.microsoft.com/en-gb/azure/machine-learning/concept-deep-learning-vs-machine-learning?WT.mc_id=wiley-book-lazzeri
+Link ->>> [![ML, AI, deep learning - What's the difference?](https://learn.microsoft.com/en-gb/azure/machine-learning/concept-deep-learning-vs-machine-learning?WT.mc_id=wiley-book-lazzeri)
 
 > 🎥 Click the image above for a video discussing the difference between machine learning, AI, and deep learning.
 
